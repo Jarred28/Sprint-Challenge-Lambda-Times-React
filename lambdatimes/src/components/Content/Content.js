@@ -47,7 +47,7 @@ export default class Content extends Component {
     }
   };
 
-  render() {
+  render() { 
     return (
       <div className="content-container">
         {/* 

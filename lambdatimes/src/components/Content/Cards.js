@@ -20,4 +20,4 @@ Cards.propTypes = {
   cards: PropTypes.array
 };
 
-export default Cards;
+export default Cards; 
